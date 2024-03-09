@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-notes-now-with-typescript/static/css/main.81c48552.css",
+    "main.js": "/react-notes-now-with-typescript/static/js/main.bd50d35b.js",
+    "index.html": "/react-notes-now-with-typescript/index.html",
+    "main.81c48552.css.map": "/react-notes-now-with-typescript/static/css/main.81c48552.css.map",
+    "main.bd50d35b.js.map": "/react-notes-now-with-typescript/static/js/main.bd50d35b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81c48552.css",
+    "static/js/main.bd50d35b.js"
+  ]
+}
